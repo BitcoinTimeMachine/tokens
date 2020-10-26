@@ -1,0 +1,19 @@
+{
+    "symbol": "Btcm",
+    "address": "0xAd26FA2Adb7A65a184CEA5a4F04b30585b95898b",
+    "overview": {
+        "en": "Btcm (Bitcoin time machine) Based on erc20, btcm uses multiple third-party escrow accounts to reduce the risk of counterparties, provide transparent audit reports, and provide legal protection against fraud. Btcm continues to carry out technological innovation and optimize the user experience. With the unique gasboost technology, the gas cost of users in the transaction process is lower than that of other stable currencies. With another unique autosweep technology, millions of alias wallets can be easily created under the main wallet, making it easy for institutional users to manage alias addresses and save gas transfer fees between them.",
+        "zh": "Bitcoin time machine(比特时光)基于ERC20的Btcm使用多个第三方托管账户来降低交易对手风险，提供透明的审计报告，以及防止欺诈的法律保护。 Btcm持续进行技术创新，优化用户体验。借助独有的GasBoost技术，用户在交易过程中所花的Gas费比其它稳定币都要低。通过另一个独有的Autosweep技术，可以在主钱包下轻松创建数百万个别名钱包，使机构用户轻松管理别名地址并省去与主钱包间的转账Gas费。"
+    },
+    "email": "kevinmeadewilliamson@outlook.com",
+    "website": "https://www.trusttoken.com/trueusd/",
+    "state": "NORMAL",
+    "published_on": "2020-10-25",
+    "initial_price": {
+        "USD": "$1.82 USD"
+    },
+    "links": {
+        "blog": "https://btctime.top/",
+        "twitter": "https://twitter.com/BitcoinTimeMachine"
+    }
+}
